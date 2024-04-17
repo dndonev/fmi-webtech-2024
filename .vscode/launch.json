@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/week7/index.js"
+            "program": "${workspaceFolder}/week8/simple-auth/index.js"
         }
     ]
 }
